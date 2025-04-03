@@ -1,4 +1,3 @@
-<html lang="tr">
 
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
     <meta charset="UTF-8">
@@ -24,4 +23,3 @@
     <footer>
         <p>&copy; 2025 Sweet Bonanza Fan. Tüm hakları saklıdır.</p>
     </footer>
-</html>
