@@ -1,3 +1,10 @@
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Sweet Bonanza oyna ve en iyi slot deneyimini yaşa! Hemen bedava dene veya gerçek parayla kazanma şansı yakala.">
+    <meta name="keywords" content="sweet bonanza, sweet bonanza oyna, bedava sweet bonanza, slot oyunları, online casino, şeker slot oyunu">
+    <meta name="author" content="Sweet Bonanza">
+    <title>Sweet Bonanza Oyna - En İyi Slot Oyunu</title>
  <header>Sweet Bonanza Oyna - Bedava ve Gerçek Parayla!</header>
     <div class="container">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdUIhuHYz17dgm9d41bRlTH77AQ85nNdDqiA&s" alt="Sweet Bonanza Oyna" class="game-image">
