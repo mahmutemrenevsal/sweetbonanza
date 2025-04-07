@@ -9,7 +9,7 @@
     <div class="container">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdUIhuHYz17dgm9d41bRlTH77AQ85nNdDqiA&s" alt="Sweet Bonanza Oyna" class="game-image">
         <p>Sweet Bonanza, en popüler slot oyunlarından biridir! Şimdi hemen ücretsiz dene veya gerçek parayla oyna ve büyük kazanç fırsatlarını yakala.</p>
-        <a href="https://t.co/r0otXXGQVH" class="play-button">Şimdi Oyna</a>
+        <a href="https://cutt.ly/yenimaxx" class="play-button">Şimdi Oyna</a>
         <div class="content">
             <h2>Sweet Bonanza Nedir?</h2>
             <p>Sweet Bonanza, Pragmatic Play tarafından geliştirilen, meyve ve şeker temalı eğlenceli bir slot oyunudur. Yüksek kazanç potansiyeli ve eğlenceli mekanikleri ile oyuncuların favori oyunları arasındadır.</p>
